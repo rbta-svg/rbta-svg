@@ -4,7 +4,7 @@
   <img align="center" src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="600" height="200" >
 </p>
 
-<h3 align="center">A passionate data scientist from Italy</h3>
+<h1 align="center">Nice to see you here! 🤝 </h3>
 
 - 🔭 I’m currently working on **Recommender Systems Challenge**
 
