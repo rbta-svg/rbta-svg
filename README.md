@@ -1,7 +1,9 @@
 
 
+<p align="center">
+  <img align="center" src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="600" height="200" >
+</p>
 
-<img align="center" src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="600" height="200" >
 <h3 align="center">A passionate data scientist from Italy</h3>
 
 - 🔭 I’m currently working on **Recommender Systems Challenge**
