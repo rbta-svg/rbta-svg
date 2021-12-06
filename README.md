@@ -14,5 +14,6 @@ My name is Robert Andrei Tiu, I'm currently enrolled in a MSc Double Degree focu
 - 🌱 I’m currently learning **Keras, TensorFlow, SciPy and more libraries related to Artificial Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fr0bhax">
 <p align="left">
 </p>
