@@ -1,7 +1,6 @@
 
 
-<img src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="600" height="200">
-<h1 align="center">Hey coder, I'm Robert 👋</h1>
+<img src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="600" height="200" align="center">
 <h3 align="center">A passionate data scientist from Italy</h3>
 
 - 🔭 I’m currently working on **Recommender Systems Challenge**
