@@ -1,5 +1,7 @@
 
 ![alt text](https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png)
+
+<img src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="100">
 <h1 align="center">Hey coder, I'm Robert 👋</h1>
 <h3 align="center">A passionate data scientist from Italy</h3>
 
