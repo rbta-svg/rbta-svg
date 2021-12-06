@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://i.ibb.co/nzJSrG2/Schermata-2021-12-06-alle-17-14-00.png">
+
 <img align="center" src="https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png" width="600" height="200" >
 <h3 align="center">A passionate data scientist from Italy</h3>
 
