@@ -1,4 +1,5 @@
 
+![alt text](https://i.ibb.co/DbDLJ1H/Hi-I-m-ROBER-2.png)
 <h1 align="center">Hey coder, I'm Robert 👋</h1>
 <h3 align="center">A passionate data scientist from Italy</h3>
 
@@ -10,7 +11,7 @@
 
 - 💬 Ask me about **Data Science**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbta-svg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
