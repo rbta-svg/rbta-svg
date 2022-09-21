@@ -9,7 +9,7 @@
 <h2 align="center">About me</h2>
 My name is Robert Andrei Tiu, I'm currently enrolled in a MSc Double Degree focused on Data Science and Artificial Intelligence. I'm based in Italy, my main hobbies are programming, fashion, basketball and crunching data (especially basketball data!) 
 
-- 🔭 I’m currently working on a **Recommender Systems Project**, with an application domain of TV shows!
+- 🔭 I’m currently looking for an internship and a part time job in the field of Software Engineering, Artificial Intelligence, Data Science and Business Intelligence
 
 - 🌱 I’m currently learning **Keras, TensorFlow, SciPy and more libraries related to Artificial Neural Networks**
 
