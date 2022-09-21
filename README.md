@@ -13,7 +13,7 @@ My name is Robert Andrei Tiu, I'm currently enrolled in a MSc Double Degree focu
 
 - 🌱 Learning: I’m currently learning **Keras, TensorFlow, SciPy and more libraries related to Artificial Neural Networks**
 
-- 🔎 Did you know that: according to 10fastkeys.com, I am in the top 2% of typist in world, with an average speed of ~130 WPM? 
+- 🔎 Did you know that: according to 10fastfingers.com, I am in the top 2% of typist in world, with an average speed of ~130 WPM? 
 
 <h2 align="left">Currently learning:</h2>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
